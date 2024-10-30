@@ -258,7 +258,7 @@ const ImageGenerator = () => {
     </Layout>
   );
 };
-/*h*/
+
   const App = () => (
     <Router basename="/New"> 
       <Routes>
